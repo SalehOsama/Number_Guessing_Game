@@ -1,5 +1,5 @@
 # Guess-the-Number-Game-Python
-
+The Guess-the-Number-Game-Python repository contains two different programs. 
 
 
 The program for guessing the Number is having a winning number which player has to guess in 5 guesses.
